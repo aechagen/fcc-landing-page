@@ -138,3 +138,23 @@ a:hover { text-decoration: underline; }
   line-height: inherit;
   white-space: nowrap;
 }
+
+
+
+/* Actual styles */
+
+.jumbotron {
+  padding: 2rem 1rem;
+  margin-bottom: 2rem;
+  border-radius: 0.3rem;
+  text-align: center;
+}
+
+button {
+  display: block;
+  margin: 0.56rem auto;
+}
+
+.pokeball {
+  height: 23px;
+}
